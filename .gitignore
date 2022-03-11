@@ -12,6 +12,9 @@ build
 .env.test.local
 .env.production.local
 
+node_modules 
+.secret
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
